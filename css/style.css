@@ -250,6 +250,7 @@
 
 .timeline .timeline-box,
 .timeline .timeline-launch {
+  box-shadow: 0 0 6px 3px rgb(0 0 0 / 40%);
   position: relative;
   display: inline-block;
   margin: 15px;
@@ -266,6 +267,7 @@
   border: none;
   text-align: center;
   background: transparent;
+  box-shadow: none;
 }
 
 .timeline .timeline-box::after,
