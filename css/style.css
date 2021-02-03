@@ -1,10 +1,10 @@
 @charset "utf-8";
 /* CSS Document */
 
-@font-face{ font-family:"shoulder"; src:url(/../fonts/BigShouldersDisplay-Medium.ttf);src:url();}
+@font-face{ font-family:"Montserat"; src:url(../fonts/Montserrat-Regular.otf);src:url(../fonts/Montserrat-Regular.woff2);}
 
 
-.shoulder{font-family:"shoulder"!important;}
+.Montserat{font-family:"Montserat"!important;}
 /* #Navigation================================================== */
 
 .start-header {
